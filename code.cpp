@@ -12,5 +12,6 @@
 	i = i + 1; 
  } 
  Printf("I like git");
+ printf("Hello");
  return 0; 
  }
